@@ -7,6 +7,7 @@ Product page (accessible with or without login)
 About Us page
 Login and Signup forms
 The project is built with React.js, Next.js, Node.js, and MongoDB, focusing on frontend development, API integration, and responsiveness across devices.
+
 Features
 Homepage: Displays the website’s main interface.
 Product Page: Shows a list of products (e.g., headphones, TVs).
